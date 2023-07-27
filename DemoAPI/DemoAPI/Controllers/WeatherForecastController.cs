@@ -29,5 +29,10 @@ namespace DemoAPI.Controllers
             })
             .ToArray();
         }
+
+        public void DemoFeature2Method()
+        {
+           
+        }
     }
 }
