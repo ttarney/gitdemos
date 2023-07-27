@@ -39,7 +39,7 @@ namespace DemoAPI.Controllers
 
         public void Foo()
         {
-
+            int x = 0;
         }
     }
 }
