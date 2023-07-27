@@ -36,5 +36,10 @@ namespace DemoAPI.Controllers
             // try this comment new comment
             int x = 5;
         }
+
+        public void Foo()
+        {
+
+        }
     }
 }
