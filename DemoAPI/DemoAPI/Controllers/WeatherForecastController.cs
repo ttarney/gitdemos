@@ -32,7 +32,8 @@ namespace DemoAPI.Controllers
 
         public void DemoFeature2Method()
         {
-           
+            // try this comment
+            int x = 0;
         }
     }
 }
