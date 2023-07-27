@@ -32,14 +32,7 @@ namespace DemoAPI.Controllers
 
         public void DemoFeature2Method()
         {
-            
-            // try this comment new comment
-            int x = 5;
-        }
-
-        public void Foo()
-        {
-            int x = 0;
+           
         }
     }
 }
